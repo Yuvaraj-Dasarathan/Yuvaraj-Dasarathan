@@ -9,7 +9,7 @@ AI/ML Engineer with **16+ years of experience** building enterprise software, cl
 - Retrieval-Augmented Generation (RAG) and AI-powered knowledge retrieval
 - Large Language Models (LLMs), NLP, and intent classification
 - Vector search systems and enterprise AI platforms
-- training Encoder models for classification, LLM fine-tuning, including LoRA and QLoRA
+- Training encoder models such as BERT for classification and fine-tuning LLMs using LoRA and QLoRA.
 - Cloud-native systems with AWS and Kubernetes
 
 ## Currently Exploring

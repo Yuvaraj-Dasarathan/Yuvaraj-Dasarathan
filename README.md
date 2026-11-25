@@ -28,7 +28,9 @@ Databricks, Apache Spark, Delta Lake, scalable ML platforms, agentic AI systems,
 
 ## AI/ML Learning & Experiments
 
-BERT text classification, LoRA/QLoRA fine-tuning, RAG frameworks, vector search, and knowledge retrieval systems.
+I have experience training classification models such as BERT, conducting experiments, and presenting the training pipeline.
+
+Other areas include LoRA/QLoRA fine-tuning, RAG frameworks, vector search, and knowledge retrieval systems.
 
 ## Tech Stack
 
